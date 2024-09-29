@@ -71,7 +71,7 @@ export default function App() {
         {card ? <Card card={card} /> : (
           <img
             className="w-28 animate-spin-slow"
-            src="/src/images/radiation-symbol.png"
+            src="/radiation-symbol.png"
             alt="Símbolo de radiação"
             draggable="false"
           />
