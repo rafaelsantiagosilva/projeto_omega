@@ -1,0 +1,110 @@
+{
+	"arithmetic": [
+		{
+			"question": "Qual o resultado da expressão 120 vezes 5 dividido por 12?",
+			"answer": 50,
+			"type": "Aritmética"
+		},
+		{
+			"question": "Qual a ordem de operadores em uma expressão matemática (potências e raízes inclusas)?",
+			"answer": "Raíz ou Potência, Divisão ou Multiplicação, Soma ou Subtração",
+			"type": "Aritmética"
+		},
+		{
+			"question": "Quanto é 1/3 (um sobre três) mais 3/12 (três sobre 12)?",
+			"answer": "7/12 (sete doze avos)",
+			"type": "Aritmética"
+		},
+		{
+			"question": "Considerando a sequência 2, 5, 8, 11, 14..., qual a razão da PA e seu oitavo elemento?",
+			"answer": "Razão é igual a 3 e o oitavo elemento é igual a 23",
+			"type": "Aritmética"
+		},
+		{
+			"question": "75/25 (setenta e cinco sobre vinte e cinco) fica quanto em porcentagem?",
+			"answer": "300%",
+			"type": "Aritmética"
+		}
+	],
+	"geometry": [
+		{
+			"question": "Qual é o valor de cada ângulo interno de um hexágono regular?",
+			"answer": "120 graus",
+			"type": "Geometria"
+		},
+		{
+			"question": "Qual é o perímetro de um quadrado com lado de 7 unidades?",
+			"answer": "28 unidades",
+			"type": "Geometria"
+		},
+		{
+			"question": "Qual a fórmula para calcular a área de um paralelogramo?",
+			"answer": "Base vezes altura",
+			"type": "Geometria"
+		},
+		{
+			"question": "Qual é a fórmula para calcular o perímetro de um círculo?",
+			"answer": "2 vezes Pi vezes o raio do círculo",
+			"type": "Geometria"
+		},
+		{
+			"question": "Qual é a área de um triângulo com base de 10 unidades e altura de 5 unidades?",
+			"answer": "25 unidades ao quadrado",
+			"type": "Geometria"
+		}
+	],
+	"logic": [
+		{
+			"question": "Se todos os cães são animais e alguns animais são gatos, então todos os cães são gatos. (Verdadeiro ou Falso)",
+			"answer": "Falso",
+			"type": "Lógica"
+		},
+		{
+			"question": "Se a afirmação \"Todos os pássaros podem voar\" é verdadeira, então a afirmação \"Alguns pássaros não podem voar\" é verdadeira. (Verdadeiro ou Falso?)",
+			"answer": "Falso",
+			"type": "Lógica"
+		},
+		{
+			"question": "Qual é o próximo número na sequência: 2, 4, 8, 16?",
+			"answer": 32,
+			"type": "Lógica"
+		},
+		{
+			"question": "Se um dia é terça-feira, qual é o dia da semana daqui 50 dias?",
+			"answer": "Quarta-feira",
+			"type": "Lógica"
+		},
+		{
+			"question": "Complete a série lógica: A, C, E, G...",
+			"answer": "I",
+			"type": "Lógica"
+		}
+	],
+	"algebra": [
+		{
+			"question": "Considerando a função de 𝑓 de x é igual a x menos x vezes 4, qual o ponto formado quando x é igual a menos 5?",
+			"answer": "X é -5 e Y é 15",
+			"type": "Álgebra"
+		},
+		{
+			"question": "Qual a hipotenusa do triângulo com os catetos iguais a 36 centímetros e 48 centímetros?",
+			"answer": "60 centímetros",
+			"type": "Álgebra"
+		},
+		{
+			"question": "Se x ao quadrado mais 5x menos 10 é 4, quais são as ráizes?",
+			"answer": "2 e menos 7",
+			"type": "Álgebra"
+		},
+		{
+			"question": "Considere o sistema {x+y=7, 2x-y=3, qual o valor de Y?",
+			"answer": "11/3 (onze terços)",
+			"type": "Álgebra"
+		},
+		{
+			"question": "Considerando que Ana possui 20 balas e com isso ela fez R$10,00, quanto de dinheiro a mais ela teria feito se tivesse 45 balas?",
+			"answer": "R$12,50",
+      "type": "Álgebra"
+		}
+	]
+}

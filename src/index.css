@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "ThirdMan";
+  src: url(/public/fonts/3rdMan.ttf) format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "VampireOne";
+  src: url(/public/fonts/VampiroOne-Regular.ttf) format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Jetbrains Mono";
+  src: url(/public/fonts/JetBrainsMono.ttf) format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
